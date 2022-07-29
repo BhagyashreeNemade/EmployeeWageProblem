@@ -9,7 +9,8 @@
             //DailyWage.CalculateDailyWage();
             //PartTimeWage.DailyWage();
             //EmployeWageUsingSwitchCase.CalculateDailyWage();
-            WageForMonth.CalculateWageForMonth();
+            //WageForMonth.CalculateWageForMonth();
+            WageForInLimit.WageForMonth();
         }
     }
 }
