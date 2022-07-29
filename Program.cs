@@ -8,7 +8,8 @@
             //CheckEmployee.CheckEmployeePresentOrNot();
             //DailyWage.CalculateDailyWage();
             //PartTimeWage.DailyWage();
-            EmployeWageUsingSwitchCase.CalculateDailyWage();
+            //EmployeWageUsingSwitchCase.CalculateDailyWage();
+            WageForMonth.CalculateWageForMonth();
         }
     }
 }
