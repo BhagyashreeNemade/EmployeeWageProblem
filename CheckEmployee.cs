@@ -24,6 +24,7 @@ namespace EmployeeWageProblem
                 {
                     Console.WriteLine("Employee is Present");
                 }
+
                 else
                 {
                     Console.WriteLine("Employee is Absent");
