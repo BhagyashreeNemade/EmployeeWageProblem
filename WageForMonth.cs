@@ -8,6 +8,7 @@ namespace EmployeeWageProblem
 {
     public class WageForMonth
     {
+
         /// <summary>
         /// Calculating Monthly Wage
         /// </summary>
