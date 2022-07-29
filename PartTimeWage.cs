@@ -10,6 +10,7 @@ namespace EmployeeWageProblem
     {
         public static void DailyWage()
         {
+
             Random random = new Random();
             int AttendanceVariable = random.Next(3);
             int IsPresent = 1;
