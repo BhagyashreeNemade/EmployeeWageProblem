@@ -8,6 +8,7 @@ namespace EmployeeWageProblem
 {
     public class EmployeWageUsingSwitchCase
     {
+
         /// <summary>
         /// EmployeeWageProgram by using Switch Case
         /// </summary>
