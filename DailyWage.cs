@@ -34,6 +34,7 @@ namespace EmployeeWageProblem
 
             DailyWage = WagePerHour * WorkingHour;
             Console.WriteLine("Daily wage of employee is " + DailyWage);
+
         }
 
     }
