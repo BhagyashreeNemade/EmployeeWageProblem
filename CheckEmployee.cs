@@ -9,6 +9,7 @@ namespace EmployeeWageProblem
     
         public class CheckEmployee
         {
+
             /// <summary>
             /// Checks the employee present or not.
             /// </summary>
