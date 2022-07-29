@@ -6,7 +6,8 @@
         {
             Console.WriteLine("Welcome to Employee Wage Computation Program .");
             //CheckEmployee.CheckEmployeePresentOrNot();
-            DailyWage.CalculateDailyWage();
+            //DailyWage.CalculateDailyWage();
+            PartTimeWage.DailyWage();
         }
     }
 }
